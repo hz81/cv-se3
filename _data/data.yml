@@ -3,7 +3,7 @@
 #
 
 headermenu:
-    cover-letter: https://drive.google.com/file/d/1olQVefaM-R9e5l_nSQKl1uNtVLCm6gMp/view?usp=sharing
+    cover-letter: https://drive.google.com/file/d/1W-cPpFYoG_iP3gscWgvgmY7s8ti2VhcA/view?usp=sharing
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -25,8 +25,8 @@ sidebar:
     github: hz81
     github-link: https://github.com/hz81
     website: Herry's CV
-    website-link: https://se2.hzy10.com
-    download-pdf: https://drive.google.com/file/d/1bphr0ludl8AFQ7otyn8OLB6ki-KBCc7C/view?usp=sharing
+    website-link: https://se3.hzy10.com
+    download-pdf: https://drive.google.com/file/d/1ctf67qJ_nodOp5NkP_CqfqzdhqdXyqZz/view?usp=sharing
 
     characters:
       title: Characters
@@ -96,15 +96,14 @@ qualifications:
 highlights:
     title: Highlights
     summary: |
-      - Experienced System Engineer (+10 years of experience)
-      - Competent in most phases of the Agile project management methodology
-      - Proficient in identifying, troubleshooting, and resolving issues or problems related to technical computer hardware and software.
-      - Proven success in maintaining communication with users during the resolution of the issue and conveying progress updates in the most friendly way possible
-      - Familiar with Microsoft and Linux Ubuntu environment
-      - Experience in maintaining legacy systems while progressing the upgrades
-      - A diligent and productive team player who accentuates communication across all lines
-      - A potential leader for a small yet effective team
-      - A passionate learner who strives to improve lives through novelty
+        Success-oriented System Engineer with 10+ years of industry expertise. <br>
+        Skilled in all stages of Agile software development life cycle. <br> 
+        Competent in identifying, troubleshooting, and resolving problems related to technical computer hardware and software. <br>
+        Proven success in maintaining communication during the resolution, and conveying progress updates in the most friendly way possible. <br>
+        Familiar with Microsoft and Linux Ubuntu ecosystem. <br>
+        Diligent and highly productive team player. <br>
+        Proficient in maintaining legacy systems while driving upgrades. <br>
+        Enthusiastic learner dedicated to enhancing lives through innovation.
 
 skills-attributes:
     title: Skills Attributes
@@ -161,12 +160,12 @@ skills-tech:
 achievements:
     title: Achievements
     contributions:
-      - desc: "Developed a performance monitoring dashboard using SQL Server, .Net Core, and Google Data Studio"
+      - desc: "Implemented a performance monitoring dashboard using SQL Server, .Net Core, and Google Data Studio"
         links:
           - url: https://ikankita.org
             urldesc: Ikankita
             urlatt:
-      - desc: "Worked with a team to deliver a seamless, robust, and secure mobile application that facilitates payment and class management across parents, students, and educators"
+      - desc: "Collaborated with cross-functional team to deploy cutting-edge mobile app, simplifying payment and class management for parents, students, and educators while ensuring security and reliability"
         links:
           - url: https://play.google.com/store/apps/details?id=com.tuut
             urldesc: Google Play
@@ -174,11 +173,11 @@ achievements:
           - url: https://apps.apple.com/sg/app/tuut/id6446396937
             urldesc: App Store
             urlatt:
-      - desc: "Manage a team of three to conduct sub-system data migration to a data centre in Kuala Lumpur, Malaysia"
+      - desc: "Manage a team of three to conduct core data system migration to a data centre in Kuala Lumpur, Malaysia"
         links:
-      - desc: "Worked with a team to develop revamped web applications that serves retail customers"
+      - desc: "Organised teams to implement core applications that serves retail customers and back-office users"
         links:
-      - desc: "Manage an outsourced team to develop and deliver a company profile website, complete with its CMS"
+      - desc: "Oversaw outsourced team to build and deliver comprehensive corporate profile website with content management system"
         links:
           - url: https://www.kdbtifa.co.id/en
             urldesc: KDBTifa
@@ -186,7 +185,7 @@ achievements:
           - url: https://www.kdbtifa.co.id/backend/backend/auth/signin
             urldesc: KDBTifa CMS
             urlatt:
-      - desc: "Maintained a customized ERP system during its upgrade process. A trial site is available as the following:"
+      - desc: "Deployed and operated a customised ERP system in Xen servers to serve sales, business, and operational activities. A trial site is available as the following:"
         links:
           - url: http://202.157.189.196:7799
             urldesc: Efinance ERP System
@@ -202,19 +201,15 @@ experiences:
         company: Xcidic Pte. Ltd, Singapore • IT Solution Provider
         site: https://xcidic.com
         details: |
-          Managing a team of coders. Providing technical leadership. <br>
-          Deeply engaged in the full development life-cycle. <br>
-          Defining the coding patterns, frameworks, and guidelines. <br> 
-          Effort estimation on the development work. <br> 
-          Develop task breakdown and assignment to the coders. <br>
-          Approve the list of third-party plugins, libraries, and products. <br> 
-          Resolving and/or escalating all blockers of tech development progression. <br> 
-          Ensuring the technical deliverable is delivered on time and within the company quality standard. <br> 
-          Ensuring the accuracy and relevancy of the technical specification documentation. <br><br>
-          Accomplishments:
+          Implemented server virtualisation environments to facilitate organisational operations. <br>
+          Organise, develop, and maintain the entire infrastructure to serve organisational objectives. <br>
+          Conducted system requirement gathering session to align with business unit goals. <br> 
+          Leveraged extensive research findings to develop actionable recommendations. <br> 
+          Orchestrated compelling presentations and persuasive communications to garner buy-in from both internal and external stakeholders. <br><br>
+          Achievements:
+            - Collaborated with cross-functional team to deploy cutting-edge mobile app, simplifying payment and class management for parents, students, and educators while ensuring security and reliability
             - Established front-end and back-end code-base templates for web applications using the Typescript framework (React, NestJS)
             - Established mobile app code-base templates in Typescript using React Native and Ignite boilerplate
-            - Managed a team of coders to perform their best in delivering good-quality products
             - Implemented ITSM to the ongoing product maintenance
             - Implemented project life-cycle procedure as a company guideline to manage projects
       - role: System Administrator
@@ -222,51 +217,41 @@ experiences:
         company: Korea Development Bank - Tifa Finance • Finance & Leasing Company
         site: https://www.kdbtifa.co.id/en
         details: |
-          Managing an ICT team <br>
-          Manage ICT projects and their budget allocation <br>
-          Analyze business decisions and translate them into strategic plans involving technology implementation <br>
-          Propose recommendations pertaining to the existing system for any improvement that will lead to added value for the business <br>
-          Plan, estimate, and present new initiatives of the ICT strategic plan <br>
-          Manage the integrity of core system performance <br>
-          Manage electronic data to ensure its security <br>
-          Manage the distribution of technical documentation and the user manual as well <br>
-          Evaluate the effectiveness and efficiency of the system <br><br>
-          Accomplishments:
+          Implemented new technology and systems, orchestrating workshops and training sessions <br>
+          Conducted comprehensive research to assess organisation's current operations, including employee interviews and quantitative data collection <br>
+          Explored diverse solutions, evaluating risks, benefits, and impacts <br>
+          Presented impactful recommendations to organisational leaders while ensuring consistent progress updates <br><br>
+          Achievements:
+            - Oversaw outsourced team to build and deliver comprehensive corporate profile website with content management system
+            - Deployed and operated a customised ERP system in Xen servers to serve sales, business, and operational activities
             - Established and configured server virtualization using XCP-ng
             - Established B2B integration using a micro-services application and a secure open-source API gateway
             - Established and configured Git repository environment under the Ubuntu Linux platform
             - Established a standard decision support system in the form of dashboard performance views using Data Studio tools
-            - Revamped a company profile website, complete with its Content Management System (CMS)
       - role: System Support Engineer
         time: Jan 2012 - Feb 2019
         company: Manulife Financial - Life Insurance Company
         site: https://www.manulife.co.id
         details: |
-          Translate the business requirements into an applicable enhancement request <br>
-          Work closely with the offshore ICT team to implement any project-related and problem-solving activities <br>
-          Develop, enhance, improve, and implement any changes to the application based on the project scope using scrum and waterfall methodologies <br>
-          Manage the ICT projects and ensure all the tasks are well execute without any constraints <br>
-          Manage the prioritization of incident tickets <br>
-          Monitor, evaluate, and improve application performance <br>
-          Conduct user training sessions for any new changes applied <br>
-          Determine the quality of code before production deployment <br><br>
-          Accomplishments:
-            - Led a team to perform sub-system data migration to a data center in Kuala Lumpur (Malaysia)
+          Assessed business processes, predicted demands, identified areas for enhancement, and executed solutions <br>
+          Spearheaded continuous assessments of business processes <br>
+          Improved knowledge of cutting-edge process and IT advancements for system automation and modernisation <br>
+          Conducted engaging meetings and delivered impactful presentations to communicate ideas and discoveries <br><br>
+          Achievements:
+            - Managed a team of three to conduct core data system migration to a data centre in Kuala Lumpur, Malaysia
             - Managed a DevOps team to deliver a qualified service solution and products in a timely fashion 
-            - Revamped an external website with mobile device compatibility using AngularJS and .Net framework
+            - Implemented an external website with mobile device compatibility using AngularJS and .Net framework
       - role: Technical Analyst
         time: Nov 2005 - Jan 2012
         company: Mega Auto Finance - Motorcycle Leasing Company
         site: http://www.maf.co.id
         details: |
-          Inquiring regarding business and user requirements <br>
-          Managing a production support team <br>
-          Project execution using a waterfall approach <br>
-          Managing incident ticket handling activities <br>
-          Monitoring application performance <br>
-          Organize user training sessions <br><br>
-          Accomplishments:
-            - Revamped a core application website
+          Developed, architected, and executed robust IT infrastructure <br>
+          Engaged and cultivated partnerships with key stakeholders to comprehend and fulfil organisational needs <br>
+          Solicited feedback from end users to drive iterative enhancements and optimise system performance <br>
+          Collaborated with cross-functional teams, including Developers and IT Managers, to deliver and deploy cutting-edge technology solutions <br><br>
+          Achievements:
+            - Organised teams to implement core applications that serves retail customers and back-office users
             - Improved a payment collection module by accelerating its processing time up to 95%
             - Averaged 98% of service level agreements in delivering resolution based on the submitted tickets
 
